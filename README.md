@@ -1,4 +1,4 @@
-# My-HRAnalytics-Report-Dashboard
+# My Power Bi Dashboard -HR Analytics Attrition Dashboard
 HR Analytics Report Dashboard using Power Bi
 Welcome
 Excited to share my portfolio project, where I developed an interactive data visualization dashboard using Power Bi
